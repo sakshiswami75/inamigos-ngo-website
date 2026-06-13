@@ -55,12 +55,6 @@ The webpage aims to spread awareness about the foundation's efforts in education
 
 ---
 
-## Author
-
-Sakshi Swami
-
----
-
 ## Submission
 
 This project was developed as part of the NGO Awareness Webpage Creation Task assigned during the InAmigos Foundation Web Developer Internship.
